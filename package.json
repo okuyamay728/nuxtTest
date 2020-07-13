@@ -13,7 +13,9 @@
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.11.0",
-    "nuxt": "^2.13.0"
+    "aws-amplify": "^3.0.20",
+    "aws-amplify-vue": "^2.1.1",
+    "nuxt": "^2.13.3"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^3.0.0",
